@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.EntryPointFilePath = 
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\Rosica\RiderProjects\WebApplication1\WebApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Rosica\RiderProjects\WebApplication1\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Book/AddMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xBZGRNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/LibraryBranch/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUJyYW5jaFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/LibraryBranch/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUJyYW5jaFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/LibraryBranch/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUJyYW5jaFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/LibraryBranch/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUJyYW5jaFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/LibraryBranch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUJyYW5jaFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Member/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Member/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Member/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Member/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rosica/RiderProjects/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx

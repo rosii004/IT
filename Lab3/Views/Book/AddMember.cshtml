@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Додади член";
+}
+
+<h2>Додади член за книга</h2>
+
+<p><strong>Книга:</strong> @ViewBag.BookName</p>
+
+<form method="post">
+    <input type="hidden" name="bookId" value="@ViewBag.BookId" />
+    <label>Избери член:</label>
+    <select name="memberId" asp-items="ViewBag.Members"></select>
+    <br /><br />
+    <button type="submit">Додади</button>
+</form>
+
+<a asp-action="Index">Назад кон листата</a>
