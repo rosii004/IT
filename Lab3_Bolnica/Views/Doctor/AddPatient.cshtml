@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Додади пациент";
+}
+
+<h2>Додади пациент кај доктор</h2>
+
+<p><strong>Доктор:</strong> @ViewBag.DoctorName</p>
+
+<form method="post">
+    <input type="hidden" name="doctorId" value="@ViewBag.DoctorId" />
+    <label>Избери пациент:</label>
+    <select name="patientId" asp-items="ViewBag.Patients"></select>
+    <br /><br />
+    <button type="submit">Додади</button>
+</form>
+
+<a asp-action="Details" asp-route-id="@ViewBag.DoctorId">Назад</a>

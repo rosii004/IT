@@ -1,0 +1,38 @@
+@model IEnumerable<Lab3_Bolnica.Models.Doctor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.FullName)</th>
+        <th>@Html.DisplayNameFor(model => model.Specialization)</th>
+        <th>Болница</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.FullName)</td>
+            <td>@Html.DisplayFor(modelItem => item.Specialization)</td>
+            <td>@item.Hospital.Name - @item.Hospital.Address</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <form asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline">
+                    <button type="submit" onclick="return confirm('Сигурен си?')">Delete</button>
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
